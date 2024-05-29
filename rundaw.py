@@ -1,1 +1,1 @@
-import randsxr
+import rndsxr
